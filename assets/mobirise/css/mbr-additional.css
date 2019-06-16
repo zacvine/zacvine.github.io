@@ -3787,7 +3787,7 @@ body {
   height: 64px;
   font-size: 32px;
   border-radius: 50%;
-  border: 2px solid #efefef;
+  border: 2px solid #149dcc;
 }
 @media (max-width: 767px) {
   .cid-rtbifgqWNq .step {
@@ -3806,7 +3806,7 @@ body {
   content: "";
   width: 2px;
   height: calc(100% - (32px + 4px) * 2);
-  background-color: #efefef;
+  background-color: #149dcc;
 }
 @media (max-width: 767px) {
   .cid-rtbifgqWNq .separline:after {
